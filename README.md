@@ -1,3 +1,3 @@
 # DEG_Mac_Arm_env
 
-pip install deepethogram --no-deps
+create the env from the file and then run pip install deepethogram --no-deps
