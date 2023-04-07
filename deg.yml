@@ -151,7 +151,6 @@ dependencies:
   - zlib=1.2.12
   - zstd=1.5.2
   - pip:
-    - deepethogram==0.1.4
     - opencv-python-headless==4.6.0.66
     - vidio==0.0.4
 prefix: /Users/giuseppegiannotti/miniforge3/envs/deepethogram
